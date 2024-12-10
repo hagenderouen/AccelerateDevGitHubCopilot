@@ -1,5 +1,5 @@
 # Library App
-
+This project was created with [Microsoft's Accelerate app development guidance using GitHub Copilot tools](https://learn.microsoft.com/en-us/training/modules/guided-project-accelerate-app-development-using-github-copilot-tools).
 ## Description
 Library App is a console-based library management system. It allows users to search for patrons, view patron details, manage loans, and renew memberships. The application uses JSON files for data storage and follows a clean architecture with a focus on testability.
 
